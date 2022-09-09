@@ -7,8 +7,8 @@ import (
 	"strings"
 	"unicode"
 
-	"github.com/olekukonko/tablewriter"
 	"github.com/ssor/bom"
+	"github.com/tmb-piXel/tablewriter"
 	"golang.org/x/net/html"
 	"golang.org/x/net/html/atom"
 )
